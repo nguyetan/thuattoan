@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../OnThiJava/OnThiJava.iml" filepath="$PROJECT_DIR$/../OnThiJava/OnThiJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OnThiThuatToan.iml" filepath="$PROJECT_DIR$/OnThiThuatToan.iml" />
+    </modules>
+  </component>
+</project>
